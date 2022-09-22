@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="input_address_Style">input_address_Style
+        <item name="android:layout_marginHorizontal">20dp</item>
+        <item name="android:layout_marginVertical">10dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:padding">5dp</item>
+        <item name="backgroundColor">@color/white</item>
+    </style>
+</resources>
